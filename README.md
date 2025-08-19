@@ -61,8 +61,8 @@ A comprehensive business intelligence solution analyzing Portugal's leading e-co
 
 | # | Section in Report | Placeholder |
 |---|-------------------|-------------|
-| **1** | Dashboard Overview | `![Dashboard Overview](screenshots/dashboard_overview.png)` |
-| **2** | Top Categories by Total Price | `![Top Categories](screenshots/top_categories_total_price.png)` |
+| **1** | Dashboard Overview | `![Dashboard Overview](screenshot/screenshot1.png)` |
+| **2** | Top Categories by Total Price | `![Top Categories](screenshot/screenshot2.png)` |
 | **3** | Delayed Orders Analysis | `![Delayed Orders](screenshots/delayed_orders.png)` |
 | **4** | Monthly Comparison (On-time vs Delayed) | `![Monthly Comparison](screenshots/monthly_on_time_vs_delayed.png)` |
 | **5** | Payment Method Analysis | `![Payment Methods](screenshots/payment_methods.png)` |
