@@ -54,23 +54,38 @@ A comprehensive business intelligence solution analyzing Portugal's leading e-co
 8. **📈 Growth Trajectory:** Year-over-year revenue trends
 
 ## 📸 Screenshots & Figures  
-> **How to use:**  
-> 1. Take a screenshot from Power BI.  
-> 2. Save it inside `./screenshots/` with the suggested file-name.  
-> 3. Commit & push – GitHub will render it automatically.
+## 📸 Dashboard Screenshots
 
-| # | Section in Report | Placeholder |
-|---|-------------------|-------------|
-| **1** | Dashboard Overview | `![Dashboard Overview](screenshot/screenshot1.png)` |
-| **2** | Top Categories by Total Price | `![Top Categories](screenshot/screenshot2.png)` |
-| **3** | Delayed Orders Analysis | `![Delayed Orders](screenshots/delayed_orders.png)` |
-| **4** | Monthly Comparison (On-time vs Delayed) | `![Monthly Comparison](screenshots/monthly_on_time_vs_delayed.png)` |
-| **5** | Payment Method Analysis | `![Payment Methods](screenshots/payment_methods.png)` |
-| **6** | State-wise Sales Map | `![State-wise Sales](screenshots/state_wise_sales.png)` |
-| **7** | Product Rating – Highest Rated | `![Highest Rated Categories](screenshots/highest_rated_categories.png)` |
-| **8** | Product Rating – Lowest Rated | `![Lowest Rated Categories](screenshots/lowest_rated_categories.png)` |
-| **9** | Seasonal Sales Patterns | `![Seasonal Sales Patterns](screenshots/seasonal_sales_patterns.png)` |
-| **10** | Revenue Analysis & Yearly Trends | `![Yearly Revenue Trends](screenshots/yearly_revenue_trends.png)` |
+### 1 · Dashboard Overview  
+![Dashboard Overview](screenshot/screenshot1.png)
+
+### 2 · Top Categories by Total Price  
+![Top Categories](screenshot/screenshot2.png)
+
+### 3 · Delayed Orders Analysis  
+![Delayed Orders](screenshot/screenshot3.png)
+
+### 4 · Monthly On-time vs Delayed  
+![Monthly Comparison](screenshot/screenshot4.png)
+
+### 5 · Payment Method Analysis  
+![Payment Methods](screenshot/screenshot5.png)
+
+### 6 · State-wise Sales Map  
+![State-wise Sales](screenshot/screenshot6.png)
+
+### 7 · Highest-Rated Categories  
+![Highest Rated](screenshot/screenshot7.png)
+
+### 8 · Lowest-Rated Categories  
+![Lowest Rated](screenshot/screenshot8.png)
+
+### 9 · Seasonal Sales Patterns  
+![Seasonal Patterns](screenshot/screenshot9.png)
+
+### 10 · Revenue & Yearly Trends  
+![Revenue Trends](screenshot/screenshot10.png)
+
 
 
 ## 🏆 Major Findings & Insights
@@ -186,6 +201,6 @@ Customer Satisfaction Rate = DIVIDE(
 ## 📞 Contact Information
 
 **Deepak Lokhande**
-- 📧 Email: your.email@example.com
+- 📧 Email: deepak.quantanalyst@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/deepaklokhande](https://linkedin.com/in/deepaklokhande)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: https://github.com/deepaklokh
